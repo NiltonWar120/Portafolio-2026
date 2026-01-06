@@ -63,7 +63,7 @@ Datos directos y enlaces a redes profesionales.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/portfolio.git
+   git clone https://github.com/NiltonWar120/Portafolio-2026.git
    cd portfolio
    ```
 
