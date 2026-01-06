@@ -51,7 +51,7 @@ const Navbar = () => {
     <nav ref={navRef} className="navbar">
       <div className="nav-content">
         <div className="nav-left">
-          <span className="name">Nilton Guerra</span>
+          <span className="name">NILTON GUERRA</span>
         </div>
         
         {/* Desktop Menu */}
@@ -95,3 +95,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
