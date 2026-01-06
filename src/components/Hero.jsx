@@ -80,7 +80,7 @@ const Hero = () => {
   // Función para descargar CV
   const handleDownloadCV = () => {
     const link = document.createElement("a");
-    link.href = "/CV_Nilton-Guerra_2026 (.pdf"; // Ruta del PDF en la carpeta public
+    link.href = "/CV_Nilton-Guerra_2026.pdf"; // Ruta del PDF en la carpeta public
     link.download = "CV_Nilton_Guerra_2026.pdf"; // Nombre del archivo descargado
     document.body.appendChild(link);
     link.click();
@@ -133,4 +133,5 @@ const Hero = () => {
 };
 
 export default Hero;
+
 
